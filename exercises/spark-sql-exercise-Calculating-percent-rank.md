@@ -57,16 +57,16 @@ scala> salaries.show
 +--------+------+----------+
 |Employee|Salary|Percentage|
 +--------+------+----------+
-|  George|    80|      High|
-|   Steve|    65|      High|
-|   Nigel|    64|      High|
-|   Micky|    62|      High|
-|     Lee|    60|   Average|
-|    Tony|    50|       Low|
-|    Paul|    48|       Low|
-|    Alan|    45|       Low|
-|    John|    42|       Low|
-|   David|    35|       Low|
+|   David| 35000|       Low|
+|    John| 42000|       Low|
+|    Alan| 45000|       Low|
+|    Paul| 48000|   Average|
+|    Tony| 50000|   Average|
+|     Lee| 60000|   Average|
+|   Micky| 62000|   Average|
+|   Nigel| 64000|      High|
+|   Steve| 65000|      High|
+|  George| 80000|      High|
 +--------+------+----------+
 ```
 
