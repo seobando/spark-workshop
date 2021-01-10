@@ -60,10 +60,10 @@ scala> salaries.show
 |  George|    80|      High|
 |   Steve|    65|      High|
 |   Nigel|    64|      High|
-|   Micky|    62|      High|
+|   Micky|    62|   Average|
 |     Lee|    60|   Average|
-|    Tony|    50|       Low|
-|    Paul|    48|       Low|
+|    Tony|    50|   Average|
+|    Paul|    48|   Average|
 |    Alan|    45|       Low|
 |    John|    42|       Low|
 |   David|    35|       Low|
